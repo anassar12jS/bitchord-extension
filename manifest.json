@@ -61,7 +61,8 @@
       "https://bitchord-8bw.pages.dev/*",
       "https://streamsxainy-site.vercel.app/*",
       "http://localhost/*",
-      "http://localhost:5173/*"
+      "http://localhost:5173/*",
+      "http://localhost:3000/*"
     ]
   },
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwSrYdP0yQWiMecKgSFsPSb+3WKUHQ3CKjZpMR1GYwrEa8LmkBvr+KyBheR0jEcS3cKZXNlLRfBJd1IZNifi0X9rHoe8Ce1ZQCs3bPI5DgvkaO/iGiaIztOVtHVbAFiAswFpbzcNi0moquaLY0jcnAS1Nl8xdOAevv8okiMmR6FSPv1PBQR4xPvl/AhRBYTlkfU5u5EsYvy2U7ufGp2QSCuMGFVi02dN6k6erFoSV/WjTd73/WjKqDyCr/2d2gxHLxKTtN/z5lfygrnAxDqp40GC0KMMjCpstzKf+S/XRR2rI9CWVkJ9NFPbAv8+uyJyLeqWBluUfPguTQa6skxytywIDAQAB",
