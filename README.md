@@ -1,2 +1,2 @@
-# bitchord-extension
+# xainy-music-extension
 extension

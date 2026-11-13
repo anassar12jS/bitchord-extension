@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "BitChord",
-  "description": "Connects the BitChord web player to YouTube Music, Spotify and Discord.",
-  "version": "0.4.4",
+  "name": "Xainy Music",
+  "description": "Connects the Xainy Music web player to YouTube Music, Spotify and Discord.",
+  "version": "0.5.0",
   "icons": {
     "16": "icon/16.png",
     "32": "icon/32.png",
@@ -10,7 +10,7 @@
     "96": "icon/96.png",
     "128": "icon/128.png"
   },
-  "homepage_url": "https://bitchord.in",
+  "homepage_url": "https://streamsxainy-site.vercel.app",
   "permissions": [
     "storage",
     "declarativeNetRequest",
@@ -27,8 +27,6 @@
     "https://api-partner.spotify.com/*",
     "https://clienttoken.spotify.com/*",
     "https://open.spotifycdn.com/*",
-    "https://bitchord.in/*",
-    "https://bitchord-8bw.pages.dev/*",
     "https://streamsxainy-site.vercel.app/*",
     "http://localhost/*"
   ],
@@ -57,8 +55,6 @@
   ],
   "externally_connectable": {
     "matches": [
-      "https://bitchord.in/*",
-      "https://bitchord-8bw.pages.dev/*",
       "https://streamsxainy-site.vercel.app/*",
       "http://localhost/*",
       "http://localhost:5173/*",
@@ -70,7 +66,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "BitChord",
+    "default_title": "Xainy Music",
     "default_popup": "popup.html"
   }
 }
